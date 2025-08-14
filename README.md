@@ -17,3 +17,6 @@ Reload Button → Manually refresh or force a new fetch.
 Loading Spinner → Displays while data is being fetched.
 
 Responsive Design → Works on desktop and mobile.
+
+PREVIEW 
+ https://deekshithga.github.io/fetch-api/
